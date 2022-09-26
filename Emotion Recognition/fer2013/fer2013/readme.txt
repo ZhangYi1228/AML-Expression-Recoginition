@@ -1,1 +1,1 @@
-https://www.kaggle.com/c/3364/download-all
+Because of the resistance of big size file over 25 MB in github, if you need the dataset FER2013 and the FER2013 PLUS I generated from FER2013, please contact me via email: yi.zhang@stud.uniheidelberg.de  
